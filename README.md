@@ -28,7 +28,7 @@ The goal is to provide a minimal, working example that beginners can study, depl
 - **Network**: Stellar Testnet
 - **Claim Amount**: 1 XLM (1,000,000 stroops)
 - **Limit**: 1 claim per address (tracked on-chain)
-- **Contract ID**: [CCNRXQFUOQMZBJ3YPQ2F4T6TESSQKFSJOAPMMMGG3P3PQ4F326B2LKCN](https://lab.stellar.org/r/testnet/contract/CCNRXQFUOQMZBJ3YPQ2F4T6TESSQKFSJOAPMMMGG3P3PQ4F326B2LKCN)
+- **Contract ID**: [CDS37F34SU4XTM5JQL7A4SCYSJMB7NM5HVPMVH7RKP6KCU3SWLGSHDJK](https://stellar.expert/explorer/testnet/tx/5b0a91190b92fa8aa717023443a044edaad8c9a42532dad7841f8b75aaa914c2)
 
 ## Project Structure
 
